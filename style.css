@@ -3,7 +3,7 @@
 }
 
 
-body{
+main,header{
     background-color: rgb(94, 92, 92);
 }
 header{
@@ -14,7 +14,7 @@ main{
 }
 footer{
     height:200px;
-    background-color:rgb(223, 41, 71);
+    background-color:rgb(223, 41, 71) !important;
     align-items: center;
 }
 .text1 h1{    
