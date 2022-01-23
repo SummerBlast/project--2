@@ -1,6 +1,5 @@
 *{
- 
-    width: 100%;
+    max-width: 100%;
 }
 
 
@@ -14,6 +13,7 @@ main{
     margin-top: 15px;
 }
 footer{
+    height:200px;
     background-color:rgb(223, 41, 71);
     align-items: center;
 }
